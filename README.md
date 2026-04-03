@@ -73,7 +73,7 @@ finance-dashboard/
 🔹 Option 1: Run Locally
 Download or clone the repository
 Bash
-git clone https://github.com/your-username/finance-dashboard.git
+git clone https://github.com/shriyapatil14122001/finance-dashboard.git
 Open the project folder
 Open index.html in your browser
 🔹 Option 2: Using VS Code
